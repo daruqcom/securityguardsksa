@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://securityguardsksa.com/sitemap-en.xml
+Sitemap: https://securityguardsksa.com/sitemap-ar.xml
